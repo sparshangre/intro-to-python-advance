@@ -28,7 +28,7 @@ After this lesson, you'll be able to
 
 ## Slides
 
-* Python Programming Advanced
+@[gslides](1AoKQRabDZ_9yLkeorz-GM0CCISAUPnPRa_a4lZ3f8O8)
 
 
 ## Assignments 
